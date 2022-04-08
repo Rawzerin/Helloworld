@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity() {
     override fun onDestroy() {
         super.onDestroy()
         Log.i("msg","onDestroy")
+        Log.i("msg","onDestroy")
     }
 
 }
